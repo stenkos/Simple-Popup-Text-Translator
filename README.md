@@ -31,3 +31,4 @@ This is a byproduct of my debugging, which I will fix in the next iteration of m
 - [ ] Add a language selection tool
 - [ ] Properly compile the program
 - [ ] Fix the jankiness of the window
+- [ ] Push window onto the middle every time
