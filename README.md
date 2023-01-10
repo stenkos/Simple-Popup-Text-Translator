@@ -1,4 +1,5 @@
 # Simple Popup Text Translator
+## *IMPORTANT - After days of suffering I have retired this repo. Enjoy this buggy mess.*
 ## Overview
 This program translates text that you copy into your clipboard, into the English language. When text is translated, it is displayed via a simplistic and modern GUI. The colour scheme of the GUI is based on the Discord colour scheme and uses Discord Black (#23272A) for the background and Discord White (#FFFFFF) for the text.
 
